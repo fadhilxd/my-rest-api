@@ -46,7 +46,7 @@
 </p>
 
 # Railway App
-[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
+[![Deploy to Railway](https://heroku.com)](https://heroku.com?referralCode=zeeoneofc)
 
 [`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
 
